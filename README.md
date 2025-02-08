@@ -9,7 +9,12 @@
 
 ###
 
-<img align="right" height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkcThxc3R3dzY4bHJidzlxY2l2MW44czY5NjB3cWNqY2lvNDZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif"  />
+<div align="center">
+  <img height="350" width = "250" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlkcThxc3R3dzY4bHJidzlxY2l2MW44czY5NjB3cWNqY2lvNDZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif">
+  <img height="350" width = "250"   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNvZWExaW5zZmpkaDN4ZW81eWZrdDA2NXR1cjF4OXRsYWMwcGwzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XJ9CsvvrHO80FX3udW/giphy.gif">
+</div>
+
 
 ###
 
@@ -24,9 +29,6 @@
 <div align="left">
   <a href="https://www.instagram.com/gabrielmacedo.mag" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="<a href="mailto:gabrielmacedo.mag@gmail.com">Gabriel Macedo</a>" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
